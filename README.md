@@ -235,7 +235,7 @@
 ------------------------
 
 ### Java
-
+* [Junit 单元测试] (https://www.ibm.com/developerworks/cn/java/j-lo-junit4/?ca=drs-cn)
 * [Apache Shiro 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
