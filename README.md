@@ -1,4 +1,3 @@
-
 # 计算机相关技术资料整理 
 
 ----------
@@ -52,7 +51,7 @@
   * [Web](#web)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
-	
+
 ## 语言无关类
 
 ###操作系统
@@ -396,6 +395,7 @@
     * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
 * React.js
     * [React.js 中文文档](http://reactjs.cn/)
+    * [React.js小书](http://huziketang.com/books/react/)
 * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
     * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
@@ -558,6 +558,5 @@
 * [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
 
 -----------------
-
 
 
